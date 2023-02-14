@@ -6,6 +6,8 @@
 h1{
     color: white;
     background-color: black;
+    border: 2px solid red;
+}
 
 p   {
     color: black;
@@ -13,5 +15,5 @@ p   {
     text-align: center;
 }
 body{
-    background-color: aquamarine;
+    background-color: green;
 }
